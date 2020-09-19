@@ -1,0 +1,116 @@
+header {
+            background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/0295d019-b14c-42b1-9606-de45d3468673/bvlatuR/std/0x0/screen3@2_1");
+            background-size: cover;
+            height: 70vh;
+            width: auto;
+        }
+
+  frame{
+            opacity:50;
+        }
+
+  h1{
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: FreeMono;
+   }
+
+.navbar {
+  box-shadow: 2px 2px 5px #000;
+  opacity: 0.9;
+  color: #DCDCDC;
+}
+
+.nav-item{
+	color: #DCDCDC;
+	font-size: 18px;
+	font-family: FreeMono;
+}
+
+.navbarNav{
+	color: #DCDCDC;
+	font-size: 18px;
+	font-family: FreeMono;
+}
+
+.navbar-brand{
+	color: #fff;
+	box-shadow: none;
+}
+
+
+
+.form-control, .btn{
+  border-radius: 0;
+}
+
+.team, footer {
+  background: #1C1C1C;
+}
+
+body > table{
+    width: 80%;
+}
+
+table{
+    border-collapse: collapse;
+    opacity: 0.9;
+    background: #BDBDBD;
+    border-radius: 15px;
+    padding: 0px;
+}
+table.list{
+    width:100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even),table.list thead>tr {
+    background-color: #dddddd;
+}
+
+input[type=text], input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit]{
+    width: 30%;
+    background-color: #ddd;
+    color: #000;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form div.form-action-buttons{
+    text-align: right;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: underline;
+    color: #0000ee;
+    margin-right: 4px;
+}
+
+label.validation-error{
+    color:   red;
+    margin-left: 5px;
+}
+
+.hide{
+    display:none;
+}
+
+ 
